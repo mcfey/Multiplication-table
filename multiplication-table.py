@@ -1,7 +1,7 @@
 """
 multiplication-table.py
 Author: Mary Feyrer
-Credit: Ethan Adner, Tess Snyder
+Credit: Ethan Adner, Tess Snyder, http://stackoverflow.com/questions/493386/how-to-print-in-python-without-newline-or-space
 Assignment:
 
 Write and submit a Python program that prints a multiplication table. The user 
