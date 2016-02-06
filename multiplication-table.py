@@ -27,7 +27,7 @@ h = int(input("Height of multiplication table: "))
 
 for x in range(1,w+1):
     for y in range(1,h+1):
-        print(x*y, end=" ") file.write("\n")
+        print(x*y, end=" " "\n") 
         
 
 
